@@ -1,0 +1,12 @@
+c:\documents and settings\user\мои документы\visual studio 2010\Projects\Gistogramm_v4\Gistogramm_v4\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\user\мои документы\visual studio 2010\Projects\Gistogramm_v4\Gistogramm_v4\bin\Debug\Gistogramm_v4.exe
+c:\documents and settings\user\мои документы\visual studio 2010\Projects\Gistogramm_v4\Gistogramm_v4\bin\Debug\Gistogramm_v4.pdb
+c:\documents and settings\user\мои документы\visual studio 2010\Projects\Gistogramm_v4\Gistogramm_v4\obj\x86\Debug\Gistogramm_v4.exe
+c:\documents and settings\user\мои документы\visual studio 2010\Projects\Gistogramm_v4\Gistogramm_v4\obj\x86\Debug\Gistogramm_v4.pdb
+E:\Мои документы\Visual Studio 2010\Projects\Gistogramm_v4\Gistogramm_v4\obj\x86\Debug\Gistogramm_v4.exe
+E:\Мои документы\Visual Studio 2010\Projects\Gistogramm_v4\Gistogramm_v4\obj\x86\Debug\Gistogramm_v4.pdb
+E:\Мои документы\Visual Studio 2010\Projects\Gistogramm_v4\Gistogramm_v4\bin\Debug\Gistogramm_v4.exe
+E:\Мои документы\Visual Studio 2010\Projects\Gistogramm_v4\Gistogramm_v4\bin\Debug\Gistogramm_v4.pdb
+E:\Мои документы\Visual Studio 2010\Projects\Gistogramm_v4\Gistogramm_v4\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Мои документы\Visual Studio 2010\Projects\Gistogramm_v5\Gistogramm_v4\obj\x86\Debug\Gistogramm_v4.exe
+E:\Мои документы\Visual Studio 2010\Projects\Gistogramm_v5\Gistogramm_v4\obj\x86\Debug\Gistogramm_v4.pdb
