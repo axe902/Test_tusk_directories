@@ -1,0 +1,30 @@
+{
+	"Person1":
+		{
+			"Item1" : 10,
+			"Item2" : 5,
+			"Item3" : 0,
+			"Item4" : 0
+		},
+	"Person2":
+		{
+			"Item1" : 8,
+			"Item2" : 7,
+			"Item3" : 50,
+			"Item4" : 0
+		},
+	"Person3":
+		{
+			"Item1" : 0,
+			"Item2" : 0,
+			"Item3" : 0,
+			"Item4" : 1
+		},
+	"Person4":
+		{
+			"Item1" : 0,
+			"Item2" : 0,		
+			"Item3" : 15,
+			"Item4" : 4
+		}
+}

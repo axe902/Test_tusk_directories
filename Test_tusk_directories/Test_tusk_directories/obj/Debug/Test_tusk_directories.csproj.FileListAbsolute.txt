@@ -1,0 +1,6 @@
+c:\users\onx5\documents\visual studio 2012\Projects\Test_tusk_directories\Test_tusk_directories\bin\Debug\Test_tusk_directories.exe.config
+c:\users\onx5\documents\visual studio 2012\Projects\Test_tusk_directories\Test_tusk_directories\bin\Debug\Test_tusk_directories.exe
+c:\users\onx5\documents\visual studio 2012\Projects\Test_tusk_directories\Test_tusk_directories\bin\Debug\Test_tusk_directories.pdb
+c:\users\onx5\documents\visual studio 2012\Projects\Test_tusk_directories\Test_tusk_directories\obj\Debug\Test_tusk_directories.csprojResolveAssemblyReference.cache
+c:\users\onx5\documents\visual studio 2012\Projects\Test_tusk_directories\Test_tusk_directories\obj\Debug\Test_tusk_directories.exe
+c:\users\onx5\documents\visual studio 2012\Projects\Test_tusk_directories\Test_tusk_directories\obj\Debug\Test_tusk_directories.pdb
